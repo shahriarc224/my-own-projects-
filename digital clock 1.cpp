@@ -31,3 +31,26 @@ start:
   goto start;
   return 0;
 }
+
+
+/*
+The code simulates a digital clock by taking a starting time from the user and using nested 
+loops to count seconds, minutes, and hours up to 24 hours, then restarting. It clears the screen
+each second, displays AM or PM, and uses a loop to create a delay. However, the delay is 
+inaccurate, `system("cls")` is Windows-only, the 12-hour format is not properly handled, and using 
+`goto` is not recommended.
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
