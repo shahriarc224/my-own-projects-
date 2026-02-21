@@ -21,7 +21,7 @@ start:
                 cout<<"PM";
             for(double i=1;i<3910000;i++){
 
-                i++;i--;
+                i++;  i--;
             }
             } s=0;
 
