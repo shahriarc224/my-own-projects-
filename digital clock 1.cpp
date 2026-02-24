@@ -9,6 +9,7 @@ cin>>h>>m>>s;
 start:
     for(h;h<24;h++)
     {
+        
         for(m;m<60;m++){
 
         for(s;s<60;s++){
